@@ -9,7 +9,7 @@ inquirer.prompt([
         name: 'text',
         message: 'Enter up to three characters for the logo text:',
         validate: (input) => input.length <= 3 || 'Text must be 3 characters or fewer'
-    }
+    },
     {
         type: 'input',
         name: 'textColor',
