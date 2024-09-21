@@ -42,8 +42,6 @@ npm install
 node index.js
 ```
 
-[Walkthrough Video](https://drive.google.com/file/d/1BCRyKgtdM8IsoXVN_wmJHnrh3eXnnulp/view?usp=sharing)
-
 2.	Follow the prompts to:
 •	Enter up to three characters for the logo text.
 •	Choose a text color (you can use a color keyword or a hexadecimal color code).
@@ -51,6 +49,8 @@ node index.js
 •	Choose a shape color (using a color keyword or a hexadecimal color code).
 
 3.	After providing the inputs, the application will generate an SVG file named logo.svg. You can open this file in a browser or any image editor that supports SVG.
+
+[Walkthrough Video](https://drive.google.com/file/d/1BCRyKgtdM8IsoXVN_wmJHnrh3eXnnulp/view?usp=sharing)
 
 ## License
 
