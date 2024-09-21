@@ -42,6 +42,8 @@ npm install
 node index.js
 ```
 
+[Walkthrough Video](https://drive.google.com/file/d/1BCRyKgtdM8IsoXVN_wmJHnrh3eXnnulp/view?usp=sharing)
+
 2.	Follow the prompts to:
 •	Enter up to three characters for the logo text.
 •	Choose a text color (you can use a color keyword or a hexadecimal color code).
